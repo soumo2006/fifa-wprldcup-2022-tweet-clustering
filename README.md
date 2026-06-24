@@ -44,6 +44,7 @@ pandas · scikit-learn (TF-IDF, KMeans, PCA) · matplotlib
 ## 📁 Contents
 
 - wc2022_tweet_clustering.ipynb — full analysis notebook
+- Also the dataset & pic of graphical representation of user analysis & the popular tweet clustering
 
 ## 🚀 Possible Extensions
 
